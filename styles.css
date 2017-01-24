@@ -1,0 +1,45 @@
+body {
+    background: #36384C;
+    color: #E9DCCD;
+}
+
+.message {
+    background: #613A43;
+    color: #E3BAB3;
+    font-family: 'Cherry Swash', cursive;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#getMessage {
+    color: #613A43;
+    background: #E9DCCD;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#getMessage:active {
+    color: #E9DCCD;
+    background: #613A43;
+    border: 2px solid #E9DCCD;
+}
+
+#getMessage:hover {
+    background: #E3BAB3;
+}
+
+#getMessage, .fa-twitter {
+    margin: 0px 100px;
+}
+
+.fa-twitter {
+    color: #E9DCCD;
+}
+
+.fa-twitter:hover {
+    color: #E3BAB3
+}
+
+.fa-twitter:active {
+    color: #E3BAB3
+}
